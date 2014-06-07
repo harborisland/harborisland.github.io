@@ -1,21 +1,18 @@
 ---
-name:
-layout: post
-title: How to Use Plot.ly and ggplotly with R Markdown
-date: 2014-06-02
-author: Justin Marciszewski
-authorurl: http://www.harborislandanalytics.com
+name: 
+layout: post 
+title: How to Use Plot.ly and ggplotly with R Markdown 
+date: 2014-06-05 
+author: Justin Marciszewski 
+authorurl: http://www.harborislandanalytics.com 
 tags:
-  - R
+  - R 
   - API
   - plotly
-  - ggplot2
-  - data
   - ggplotly
+  - ggplot2
   - RMarkdown
-
 ---
-
 <!DOCTYPE html>
 <!-- saved from url=(0014)about:internet -->
 <html>
@@ -239,8 +236,8 @@ url &lt;- response$url
 filename &lt;- response$filename
 
 # Built Plot.ly iframe
-plotly_iframe &lt;- paste(&quot;&lt;iframe src=&#39;&quot;, url, &quot;&#39; width=&#39;800&#39; height=&#39;500&#39;&gt;&lt;/iframe&gt;&quot;, 
-    sep = &quot;&quot;)
+plotly_iframe &lt;- paste(&quot;&lt;iframe scrolling=&#39;no&#39; seamless=&#39;seamless&#39; src=&#39;&quot;, url, 
+    &quot;/800/600&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/iframe&gt;&quot;, sep = &quot;&quot;)
 </code></pre>
 
 <p>Paste the following below the previous r code chunk (i.e. - add it to your R Markdown document in the inline <a href="https://www.rstudio.com/ide/docs/r_markdown">r code syntax</a> so it&#39;s rendered as html by knitr). </p>
@@ -249,7 +246,7 @@ plotly_iframe &lt;- paste(&quot;&lt;iframe src=&#39;&quot;, url, &quot;&#39; wid
 
 <p><code  class="r">`</code><code class="r">r I(plotly_iframe)`</code></p>
 
-<iframe src='https://plot.ly/~hianalytics/58' width='800' height='500'></iframe>
+<iframe scrolling='no' seamless='seamless' src='https://plot.ly/~hianalytics/58/800/600' width='800' height='600'></iframe>
 
 <h2>II. R Markdown, Plot.ly + ggplotly Example</h2>
 
@@ -285,7 +282,7 @@ plot
 </code></pre>
 
 <iframe height="600" id="igraph" scrolling="no" seamless="seamless"
-                src="https://plot.ly/~hianalytics/107" width="600" frameBorder="0"></iframe>
+                src="https://plot.ly/~hianalytics/157" width="800" frameBorder="0"></iframe>
 
 <p>I&#39;d like to personally thank Matt Sundquist for inspiring this post and the Plot.ly team for their hardwork in putting together a great foundation for an open source data visualization and collaboration. I&#39;d also like to thank all those involved and supporting the underlying packages and software required to make all this possible.</p>
 
