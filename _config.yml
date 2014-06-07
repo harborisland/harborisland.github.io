@@ -72,9 +72,9 @@ JB :
   #
   about_path: /about.md
   archive_path: /archive.html
-  categories_path : /categories.html
+  # categories_path : /categories.html
   tags_path : /tags.html
-  atom_path : /atom.xml
+  # atom_path : /atom.xml
   rss_path : /rss.xml
 
   # Settings for comments helper
