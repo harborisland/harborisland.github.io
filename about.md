@@ -1,17 +1,19 @@
 ---
 layout: page
 title : About
-header : About
+header : About Harbor Island Analytics
 group: navigation
 ---
 
-# About Harbor Island Analytics
+### Welcome
 
-Hello, my name is Justin and I am the founder of Harbor Island Analytics.
+Hello, my name is Justin and I am the founder of [Harbor Island Analytics](http://www.harborislandanalytics.com).
 
 Harbor Island Analytics is focused on helping e-commerce operators more profitably leverage the behavioral data of their customers.
 
 I believe that the better we are at using and understanding our data the better we are at maintaining longer lasting relationships with our customers and growing our businesses.
+
+### Our Purpose
 
 I founded Harbor Island Analytics because I am passionate about discovering new insights hidden within data.  Our focus is simple: finding our clients valuable insights from their business’s website data.
 
