@@ -31,14 +31,14 @@ owner:
   twitter:        hianalytics
   facebook:       
   github:         harborisland
-  stackexchange:  
+  stackexchange:  http://stackoverflow.com/users/1812363/hianalytics
   linkedin:       https://www.linkedin.com/in/justinmarciszewski
   instagram:      
   flickr:         
   tumblr:         
   hmfaysalsocial: 
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/112325667852839565318
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-43584172-4
