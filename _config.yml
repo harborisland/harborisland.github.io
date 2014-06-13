@@ -49,15 +49,17 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: <i class="icon-home"></i> Home
     url: /
     external: false
     icon: home
-  - title: Tags
+  - title: <i class="icon-file"></i> Categories
+    url: /categories
+  - title: <i class="icon-tags"></i> Tags
     url: /tags
-  - title: About
+  - title: <i class="icon-info"></i> About
     url: /about
-  - title: HarborIslandAnalytics.com
+  - title: <i class="icon-external-link"></i> Main Site
     url: http://www.harborislandanalytics.com
     external: true
 
