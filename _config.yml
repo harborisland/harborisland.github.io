@@ -30,7 +30,7 @@ owner:
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        hianalytics
   facebook:       
-  github:         harborisland
+  github:         hianalytics
   stackexchange:  http://stackoverflow.com/users/1812363/hianalytics
   linkedin:       https://www.linkedin.com/in/justinmarciszewski
   instagram:      
@@ -90,8 +90,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://harborisland.github.io/'
-  relativeLinks: 'http://harborisland.github.io/links.jsonp'
+  siteurl: 'http://hianalytics.github.io/'
+  relativeLinks: 'http://hianalytics.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
