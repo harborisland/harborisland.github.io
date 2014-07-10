@@ -17,12 +17,9 @@ image:
 >
 >Data Engineer
 
-I  
-uncover  
-insights.  
+I uncover and automate insights.  
 
 *Practical, meaningful insights.*  
-
 
 My work is my passion.  
 
